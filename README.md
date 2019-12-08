@@ -12,6 +12,7 @@
 - [x] Config Timezone to Asia/Tehran
 - [x] Install bat
 - [ ] Increase max_user_watches in kernel
+- [ ] install filezilla
 
 Working on ...
 
