@@ -1,0 +1,9 @@
+---
+
+- name: configure and deploy your homelab
+  gather_facts: no
+  hosts: local
+  remote_user: ubuntu
+  become: yes
+  roles:
+    - presetup

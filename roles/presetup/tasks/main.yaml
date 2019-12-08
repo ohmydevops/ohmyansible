@@ -1,0 +1,25 @@
+---
+
+- name: Update apt repositories
+  apt:
+    update_cache: yes
+
+- name: Remove useless packages from the cache
+  apt:
+    autoclean: yes
+
+- name: Set timezone to Asia/Tehran
+  timezone:
+    name: Asia/Tehran
+
+# - name: Enable UFW and deny everything
+#   ufw:
+#     state: enabled
+#     policy: deny
+
+# - name: Allow ssh ports
+#   ufw:
+#     rule: allow
+#     name: OpenSSH
+#   notify:
+#     - restart ufw
