@@ -1,0 +1,12 @@
+---
+# This is for Debian/Ubuntu
+- import_tasks: github.yml
+
+- name: DEBIAN | Set URL to download bins
+  set_fact:
+    debian_url: "{{ gh_repo_url }}/releases/download/v{{ bat_version }}/bat_{{ bat_version }}_amd64.deb"
+
+- name: DEBIAN | Install deb from github
+  become: true
+  apt:
+    deb: "{{ debian_url }}"

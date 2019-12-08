@@ -1,0 +1,18 @@
+---
+- import_tasks: debian.yml
+  when: ansible_os_family == 'Debian'
+
+- import_tasks: arch.yml
+  when: ansible_distribution == 'ArchLinux'
+
+- import_tasks: void.yml
+  when: ansible_distribution == 'VoidLinux'
+
+- import_tasks: freebsd.yml
+  when: ansible_distribution == 'FreeBSD'
+
+- import_tasks: macos.yml
+  when: ansible_distribution == 'MacOS'
+
+- import_tasks: arm.yml
+  when: ansible_architecture == 'arm'

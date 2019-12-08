@@ -1,9 +1,10 @@
 ---
 
 - name: configure and deploy your homelab
-  gather_facts: no
+  # gather_facts: no
   hosts: local
   remote_user: ubuntu
   become: yes
   roles:
-    - presetup
+    - presetup              # prepare my system with my own needs :)
+    - aeimer.install_bat    # install bat (better than cat !)

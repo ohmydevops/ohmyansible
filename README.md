@@ -10,6 +10,7 @@
 - [x] Update my repository
 - [x] Clean unnecessary packages
 - [x] Config Timezone to Asia/Tehran
+- [x] Install bat
 - [ ] Increase max_user_watches in kernel
 
 Working on ...

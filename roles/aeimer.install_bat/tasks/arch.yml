@@ -1,0 +1,7 @@
+---
+# This is for Arch Linux
+- name: ARCH | Install by pacman
+  become: true
+  pacman:
+    name: bat
+    state: present

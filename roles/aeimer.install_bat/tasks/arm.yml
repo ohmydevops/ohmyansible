@@ -1,0 +1,25 @@
+---
+# This is for arm
+- import_tasks: github.yml
+
+- name: ARM | Set URL to download bins
+  set_fact:
+    arm_url: "{{ gh_repo_url }}/releases/download/v{{ bat_version }}/bat-v{{ bat_version }}-arm-unknown-linux-gnueabihf.tar.gz"
+
+- name: ARM | Unpack tar
+  unarchive:
+    src: "{{ arm_url }}"
+    dest: "{{ arm_tmp }}"
+    remote_source: yes
+
+- name: ARM | Copy bin to /usr/local/bin/bat
+  become: true
+  copy:
+    src: "{{ arm_tmp }}/bat"
+    dest: "{{ arm_target }}"
+    mode: "{{ arm_filemode }}"
+
+- name: ARM | Remove folder
+  file:
+    path: "{{ arm_tmp }}"
+    state: abesent

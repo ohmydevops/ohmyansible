@@ -1,0 +1,16 @@
+---
+# General
+# If is ~, the latest stable version will be used
+gh_user: sharkdp
+gh_repo: bat
+gh_repo_url: "https://github.com/{{ gh_user }}/{{ gh_repo }}"
+bat_version: ''
+
+# DEBIAN
+debian_url: ~
+
+# ARM
+arm_url: ~
+arm_tmp: /tmp/bat_tmp
+arm_target: /usr/local/bin/bat
+arm_filemode: 0755

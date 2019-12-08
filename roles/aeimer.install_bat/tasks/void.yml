@@ -1,0 +1,7 @@
+---
+# This is for Void Linux
+- name: VOID | Install via xbps-install
+  become: true
+  xbps:
+    name: bat
+    state: present

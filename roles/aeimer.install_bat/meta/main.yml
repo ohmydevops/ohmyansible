@@ -1,0 +1,23 @@
+galaxy_info:
+  role_name: install-bat
+  author: Alexander Eimer
+  description: Install bat, a cat replacement
+
+  license: MIT
+  min_ansible_version: 2.0
+
+  platforms:
+  - name: Debian
+  - name: Ubuntu
+  - name: ArchLinux
+  - name: Void Linux
+  - name: MacOS
+  - name: FreeBSD
+
+  galaxy_tags:
+  - cat
+  - bat
+  - linux
+  - console
+
+  dependencies: []

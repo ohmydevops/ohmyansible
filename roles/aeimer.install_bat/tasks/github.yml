@@ -1,0 +1,18 @@
+---
+- name: GITHUB | Get current version of bat
+  shell: >
+      warn=False
+      curl --silent https://api.github.com/repos/{{ gh_user }}/{{ gh_repo }}/releases/latest |
+      grep '"tag_name":' |
+      sed -E 's/.*"([^"]+)".*/\1/' |
+      sed 's/v//'
+  register: command_result
+  failed_when: >
+    command_result.rc != 0 or
+    not command_result.stdout|regex_search('\w+\.\w+\.\w+')
+  when: bat_version == ''
+
+- name: GITHUB | Set latest version of bat
+  set_fact:
+    bat_version: "{{ command_result.stdout }}"
+  when: bat_version == ''

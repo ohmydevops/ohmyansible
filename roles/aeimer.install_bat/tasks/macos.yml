@@ -1,0 +1,7 @@
+---
+# This is for MacOS
+- name: MacOS | Install via Homebrew
+  become: true
+  homebrew:
+    name: bat
+    state: present
