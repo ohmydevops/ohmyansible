@@ -13,7 +13,18 @@
 - [x] Install bat
 - [ ] Increase max_user_watches in kernel
 - [ ] install filezilla
+- [ ] install virtualbox
+- [ ] install docker
+- [ ] install k8s
+- [ ] install gedit
+- [ ] install chromium
+- [ ] install firefox
+- [ ] install vscode
+- [ ] install ghex
 
 Working on ...
 
 ## How run this with ansible?
+
+Working on ...
+
