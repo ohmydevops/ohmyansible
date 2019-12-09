@@ -1,6 +1,6 @@
 <div dir='auto'>
   
-<center>![.](https://www.ansible.com/hubfs/Images/Red-Hat-Ansible_OG_1200x630.png)</center>
+<center>[.](https://www.ansible.com/hubfs/Images/Red-Hat-Ansible_OG_1200x630.png)</center>
   
 ## این چیست؟
 راه اندازی یک سیستم خانگی کامل و خوب برای یک سیستم ادمین/برنامه‌نویس/مهندس شبکه و خلاصه یک گیک کامپیوتری زمان بره! اینجا با Ansible به کارها سرعت میدیم. من در حال حاضر از لینوکس Mint 19.2 استفاده میکنم.
