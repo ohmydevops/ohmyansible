@@ -1,6 +1,6 @@
 <div dir='auto'>
   
-<center><img src="https://developers.redhat.com/blog/wp-content/uploads/2016/08/screen-shot-2016-08-12-at-11-35-19-am.png"></center>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctnHV2m8XdcPv06I79VV5WuQ_pM03WDufPXr9QViCYDlIaRR3&s"></center>
   
 ## این چیست؟
 راه اندازی یک سیستم خانگی کامل و خوب برای یک سیستم ادمین/برنامه‌نویس/مهندس شبکه و خلاصه یک گیک کامپیوتری زمان بره! اینجا با Ansible به کارها سرعت میدیم. من در حال حاضر از لینوکس Mint 19.2 استفاده میکنم.
