@@ -30,6 +30,11 @@
 - [ ] install firefox
 - [ ] install vscode
 - [ ] install ghex
+- [ ] install latest stable php + composer
+- [ ] install latest stable golang
+- [ ] install latest stable python + pip
+- [ ] install latest stable nodejs + npm
+
 
 Working on ...
 
