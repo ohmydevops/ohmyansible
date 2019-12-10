@@ -40,9 +40,9 @@ Working on ...
 
 ## How run this with ansible?
 
-1- ##### install ansbile on your system
+1- **install ansbile on your system**
 
-- apt package manager
+    - apt package manager
 
 ```
 sudo apt update
@@ -51,7 +51,8 @@ sudo apt-add-repository --yes --update ppa:ansible/ansible
 sudo apt install ansible
 ```
 
-2- ##### clone and run this repo!
+2- **clone and run this repo!**
+
 
 ```
 git clone https://github.com/amirbagh75/my-homelab-ansible.git
