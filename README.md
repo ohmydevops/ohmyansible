@@ -36,6 +36,7 @@
 - [ ] install zsh + ohmyzsh
 - [ ] config default shell to zsh
 - [ ] install ghex
+- [ ] install vlc
 - [ ] install sqlitebrowser
 - [ ] install latest stable php + composer
 - [ ] install latest stable golang
