@@ -40,8 +40,20 @@ Working on ...
 
 ## How run this with ansible?
 
+##### install ansbile on your system
+
+- apt package manager
+
+```
+sudo apt update
+sudo apt install software-properties-common
+sudo apt-add-repository --yes --update ppa:ansible/ansible
+sudo apt install ansible
+```
+
+##### clone and run this repo!
+
 ```
 git clone https://github.com/amirbagh75/my-homelab-ansible.git
 ansible-playbook install.yaml -K
-
 ```
