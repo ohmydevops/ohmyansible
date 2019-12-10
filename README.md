@@ -19,7 +19,7 @@
 - [x] Clean unnecessary packages
 - [x] Config Timezone to Asia/Tehran
 - [x] Install bat
-- [ ] Increase max_user_watches in kernel
+- [x] Increase max_user_watches in kernel
 - [ ] install filezilla
 - [ ] install virtualbox
 - [ ] install docker
