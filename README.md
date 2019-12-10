@@ -42,7 +42,7 @@ Working on ...
 
 1- **install ansbile on your system**
 
-    - apt package manager
+   - apt package manager
 
 ```
 sudo apt update
