@@ -40,5 +40,8 @@ Working on ...
 
 ## How run this with ansible?
 
-Working on ...
+```
+git clone https://github.com/amirbagh75/my-homelab-ansible.git
+ansible-playbook install.yaml -K
 
+```
