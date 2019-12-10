@@ -59,5 +59,6 @@ Working on ...
 
 ```
 git clone https://github.com/amirbagh75/my-homelab-ansible.git
+cd my-homelab-ansible
 ansible-playbook install.yaml -K
 ```
