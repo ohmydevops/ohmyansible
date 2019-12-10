@@ -42,7 +42,7 @@ Working on ...
 
 1- **install ansbile on your system based on ansible docs**
 
-   - apt package manager (ubuntu) -> (link)[https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-ubuntu]
+   - apt package manager (ubuntu) -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-ubuntu)
 
 2- **clone and run this repo!**
 
