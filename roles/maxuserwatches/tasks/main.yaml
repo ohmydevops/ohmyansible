@@ -1,0 +1,9 @@
+---
+
+- name: Change max_user_watches for editors
+  sysctl:
+    name: fs.inotify.max_user_watches
+    value: 5242888
+    sysctl_set: yes
+    state: present
+    reload: yes

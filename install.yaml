@@ -8,3 +8,4 @@
   roles:
     - presetup              # prepare my system with my own needs :)
     - aeimer.install_bat    # install bat (better than cat !)
+    - maxuserwatches    # change inotify.max_user_watches to MAX
