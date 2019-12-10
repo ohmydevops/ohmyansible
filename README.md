@@ -28,6 +28,13 @@
 - [ ] install chromium
 - [ ] install firefox
 - [ ] install vscode
+- [ ] install sublime
+- [ ] install vim
+- [ ] install konsole
+- [ ] install terminator
+- [ ] install htop
+- [ ] install zsh + ohmyzsh
+- [ ] config default shell to zsh
 - [ ] install ghex
 - [ ] install latest stable php + composer
 - [ ] install latest stable golang
