@@ -48,11 +48,11 @@ Working on ...
 
 1- **install ansbile on your system based on ansible docs**
 
-   - apt package manager (ubuntu) -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-ubuntu)
-   - apt package manager (debian) -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-debian)
-   - pacman package manager (arch) -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-pacman-arch-linux)
-   - pip python package manager -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-pip)
-   - dnf/yum package manager (fedora/centos) -> [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-release-via-dnf-or-yum)      
+   - apt package manager (ubuntu) :link: [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-ubuntu)
+   - apt package manager (debian) :link: [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-debian)
+   - pacman package manager (arch) :link: [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-pacman-arch-linux)
+   - pip python package manager :link: [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-pip)
+   - dnf/yum package manager (fedora/centos) :link: [link](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-release-via-dnf-or-yum)      
 
 2- **clone and run this repo!**
 
