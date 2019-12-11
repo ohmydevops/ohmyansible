@@ -1,0 +1,5 @@
+---
+
+- name: Install terminator
+  apt:
+    name: terminator

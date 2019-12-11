@@ -1,0 +1,5 @@
+---
+
+- name: Install gedit editor
+  apt:
+    name: gedit

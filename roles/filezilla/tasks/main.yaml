@@ -1,0 +1,5 @@
+---
+
+- name: Install filezilla FTP client
+  apt:
+    name: filezilla
