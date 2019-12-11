@@ -13,36 +13,75 @@
 - **اضافه کردن نسخه بندی برای هر نرم افزار** (کاربر بتونه بین نسخه ها انتخاب کنه. مثلا نسخه چند داکر رو میخواد یا حتی نسخه چند ادیتورشو و ...)
 </div>
 
-## Software && Services configuration on my Homelab
+## Software && Services configuration on my Homelab (by categroy)
+
+#### general 
 
 - [x] Update my repository
 - [x] Clean unnecessary packages
 - [x] Config Timezone to Asia/Tehran
-- [x] Install bat
-- [x] Increase max_user_watches in kernel
-- [ ] install filezilla
-- [ ] install virtualbox
+
+
+#### containers and orchestration tool
+
 - [ ] install docker
-- [ ] install k8s
-- [ ] install gedit
-- [ ] install chromium
-- [ ] install firefox
+- [ ] install docker-compose
+- [ ] install k8s (minikube)
+
+#### editors tool
+
+- [x] install gedit
 - [ ] install vscode
 - [ ] install sublime
 - [ ] install vim
-- [ ] install konsole
-- [ ] install terminator
-- [ ] install htop
-- [ ] install kazam
+
+#### terminal emulators and shell utilities
+
+- [x] install terminator
+- [x] install konsole
 - [ ] install zsh + ohmyzsh
 - [ ] config default shell to zsh
-- [ ] install ghex
-- [ ] install vlc
-- [ ] install sqlitebrowser
+- [x] Install bat
+- [x] install htop
+
+
+#### kernel configs
+
+- [x] Increase max_user_watches in kernel
+
+#### programming languages
+
 - [ ] install latest stable php + composer
 - [ ] install latest stable golang
 - [ ] install latest stable python + pip
 - [ ] install latest stable nodejs + npm
+
+##### browsers
+
+- [ ] install chromium
+- [ ] install firefox
+
+
+#### media
+
+- [ ] install vlc
+- [ ] install kazam
+
+#### virtualization
+
+- [ ] install virtualbox
+
+#### ftp/ssh/http(s)
+
+- [x] install filezilla
+
+#### system tools
+
+- [ ] install ghex
+
+#### database tools
+
+- [ ] install sqlitebrowser
 
 
 Working on ...
