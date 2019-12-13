@@ -58,8 +58,8 @@
 
 ##### browsers
 
-- [ ] install chromium
-- [ ] install firefox
+- [x] install chromium
+- [x] install firefox
 
 
 #### media
