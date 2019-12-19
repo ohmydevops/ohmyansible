@@ -28,12 +28,13 @@
 - [ ] install docker-compose
 - [ ] install k8s (minikube)
 
-#### editors tool
+#### editors and software Development tools 
 
 - [x] install gedit
 - [ ] install vscode
 - [ ] install sublime
 - [ ] install vim
+- [ ] install postman
 
 #### terminal emulators and shell utilities
 
