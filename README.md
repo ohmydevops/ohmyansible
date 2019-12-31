@@ -70,6 +70,12 @@
 - [ ] install vlc
 - [ ] install kazam
 
+#### design and image editing 
+
+- [ ] install gimp
+- [ ] install inkscape
+- [ ] install shotwell
+
 #### virtualization
 
 - [ ] install virtualbox
