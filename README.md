@@ -91,6 +91,10 @@
 #### database tools
 
 - [ ] install sqlitebrowser
+- [ ] mysqlworkbrench
+- [ ] phpmyadmin
+- [ ] pgadmin
+- [ ] medis
 
 
 #### security
