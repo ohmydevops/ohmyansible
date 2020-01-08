@@ -45,7 +45,6 @@
 - [ ] install zsh + ohmyzsh
 - [ ] config default shell to zsh
 - [x] Install bat
-- [x] install htop
 
 
 #### kernel configs
@@ -95,6 +94,12 @@
 - [ ] phpmyadmin
 - [ ] pgadmin
 - [ ] medis
+
+
+#### monitoring
+
+- [ ] gnome-system-monitor
+- [x] install htop
 
 
 #### security
