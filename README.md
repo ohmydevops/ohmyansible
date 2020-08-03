@@ -11,7 +11,7 @@ By **Oh My Ansible**, you can easily prepare PC, laptops and servers for daily w
 - Clone this repo:
 
 ```bash
-git clone https://github.com/amirbagh75/oh-my-ansible
+git clone https://github.com/amirbagh75/ohmyansible
 ```
 
 - Run Ansible:
